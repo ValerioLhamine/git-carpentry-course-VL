@@ -9,7 +9,7 @@ Add the cost of water if bought and revert
 # Cost
 * flour £1/kg
 * yeast £2
-olive oil £10/l
+* olive oil £10/l
 
 ## Instruction
 * add water
