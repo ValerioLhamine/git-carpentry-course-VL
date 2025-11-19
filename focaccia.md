@@ -10,5 +10,5 @@ olive oil
 * add water
 * add half of the flour
 * add yeast
-* add remaining flour
+* add rest of flour
 
