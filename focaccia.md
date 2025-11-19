@@ -16,4 +16,4 @@ olive oil £10/l
 * add half of the flour
 * add yeast
 * add rest of flour
-
+* mix
