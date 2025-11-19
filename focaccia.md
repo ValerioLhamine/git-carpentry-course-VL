@@ -1,5 +1,5 @@
 # Focaccia
-
+Add the cost of water if bought and revert
 ## Ingredeints
 * 250ml water
 * 500g flour
