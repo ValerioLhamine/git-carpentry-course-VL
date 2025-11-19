@@ -1,14 +1,14 @@
 # Focaccia
 
 ## Ingredeints
-250ml water
-500g flour
-yeast
-olive oil
+* 250ml water
+* 500g flour
+* yeast
+* olive oil
 
 # Cost
-flour £1/kg
-yeast £2
+* flour £1/kg
+* yeast £2
 olive oil £10/l
 
 ## Instruction
