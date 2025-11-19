@@ -6,6 +6,11 @@
 yeast
 olive oil
 
+#Cost
+flour £1/kg
+yeast £2
+olive oil £10/l
+
 ##Instruction
 * add water
 * add half of the flour
